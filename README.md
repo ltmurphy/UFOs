@@ -19,3 +19,4 @@ The following image is an example with Oregon entered into the State search bar.
 
 
 ## Summary
+This is a great initial start for the webpage design. There are some shortcomings that could be addressed with further development. One of these is the specificity required in the search criteria. A specific day has to be entered, it will not accept input at the month or year level. This requires the user to know the exact day they want to pull and limits the uses of the page. This is the case with the other input boxes as well. This could be remedied by providing the search parameters in drop down menus to select from. However, with the larger ranged date parameter, it would be much more versatile and user friendly to also be able to search by month or year. This would allow data to be accessed on a larger time scale which may provide better understanding in some situations.
